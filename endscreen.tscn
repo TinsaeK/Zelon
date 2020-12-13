@@ -1,0 +1,43 @@
+[gd_scene load_steps=4 format=2]
+
+[ext_resource path="res://tryagainbutton.tscn" type="PackedScene" id=1]
+[ext_resource path="res://1 (2).jpg" type="Texture" id=2]
+[ext_resource path="res://endscreen.gd" type="Script" id=4]
+
+[node name="endscreen" type="Control"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+script = ExtResource( 4 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="victorytext" type="VBoxContainer" parent="."]
+margin_left = 80.0
+margin_top = 80.0
+margin_right = 920.0
+margin_bottom = 500.0
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="text" type="TextureRect" parent="victorytext"]
+margin_right = 852.0
+margin_bottom = 149.0
+texture = ExtResource( 2 )
+stretch_mode = 4
+
+[node name="options" type="HBoxContainer" parent="victorytext"]
+margin_top = 153.0
+margin_right = 852.0
+margin_bottom = 420.0
+size_flags_vertical = 3
+
+[node name="buttons" type="VBoxContainer" parent="victorytext/options"]
+margin_right = 852.0
+margin_bottom = 267.0
+size_flags_horizontal = 3
+size_flags_vertical = 3
+
+[node name="Exit" parent="victorytext/options/buttons" instance=ExtResource( 1 )]
+margin_right = 852.0
