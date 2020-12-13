@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/TinsaeK/Zelon">
-    <img src="plyr.png" alt="Logo" width="512" height="300">
+    <img src="plyr.png" alt="Logo" width="256" height="150">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
