@@ -6,7 +6,7 @@
     <img src="players2.png" alt="Logo" width="226" height="416">
   </a>
 
-  <h3 align="center">Zelon</h3>
+  <h1 align="center">Zelon</h1>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
