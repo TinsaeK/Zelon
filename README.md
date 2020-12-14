@@ -25,6 +25,8 @@ There are various components to this game. The maze layout was manually done, he
 <img src="https://github.com/TinsaeK/Zelon/blob/main/tileses.png">
 I also used the image below to darken all areas farther from the player. 
 <img src="https://github.com/TinsaeK/Zelon/blob/main/light.png">
+<h3> Controls and Mechanics</h3>
+the mechanics of the game are simple, it just uses wasd for movement and the camera follows the player.
 <h3> Road Map</h3>
 I had first included the enemies using this sprite
 <img src="https://github.com/TinsaeK/Zelon/blob/main/warbler.gif">
