@@ -22,5 +22,5 @@ This project was initially meant to be a game that offers the player a maze that
 There are various components to this game. The maze layout was manually done, here is what a zoomed out view of the whole maze looks like
 <img src="https://github.com/TinsaeK/Zelon/blob/main/mazelayout.PNG">
  The Sprite for the character is the image above the title. The noise is generated using <a href="https://github.com/TinsaeK/Zelon/blob/main/perlin.gd">this code</a> and the tileset below
-<img src="https://github.com/TinsaeK/Zelon/blob/main/tileses.PNG">
+<img src="https://github.com/TinsaeK/Zelon/blob/main/tileses.png">
 <h3> Road Map</h3>
