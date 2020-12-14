@@ -19,6 +19,6 @@ This project initially was meant to be a game that offers the player a maze that
 <a href="https://youtu.be/tnhgFXnAku0">Watch Demo Here</a>
 
 <h3> Components</h3>
-There are various components to this game. The maze layout was manually done, here is what a zoomed out view of the whole maze looks like:
- 
+There are various components to this game. The maze layout was manually done, here is what a zoomed out view of the whole maze looks like
+ ![mazelayout](https://user-images.githubusercontent.com/61067219/102031712-c7ae5300-3d84-11eb-9cc7-ab0fc683235d.PNG)
 <h3> Road Map</h3>
