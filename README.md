@@ -17,3 +17,7 @@
 <h3> About The Project</h3>
 This project initially was meant to be a game that offers the player a maze that they have to navigate through in dim lighting, while avoiding enemies with their own behavior trees. however i had to make changes and instead implemented a perlin noise background on the title screen. here is the video with the gameplay.
 <a href="https://youtu.be/tnhgFXnAku0">Watch Demo Here</a>
+
+<h3> Components</h3>
+There are various components to this game. 
+<h3> Road Map</h3>
