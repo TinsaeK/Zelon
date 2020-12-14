@@ -29,5 +29,5 @@ I also used the image below to darken all areas farther from the player.
 I had first included the enemies using this sprite
 <img src="https://github.com/TinsaeK/Zelon/blob/main/warbler.gif">
 however i realized theres not enough space for the enemies to navigate in different ways and have different behaviors given the narrow spacings of the maze, so instead i decided to implement perlin noise on both the title screen and in the game. Here is an example of the title screen perlin pattern.
-
+<img src="https://github.com/TinsaeK/Zelon/blob/main/titlepageexample.png">
 however i decided to remove the second implementation of perlin in the game itself because it takes a significant amount off time for the procedural generation to complete and i didnt want the player to have to wait twice as long to play the game.
